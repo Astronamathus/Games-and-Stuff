@@ -16,4 +16,5 @@ This repository just contains a few menial projects I've created, most are simpl
 11) rps-adaptive (py) - AI-assisted, more like AI-built and I watched
 12) rps - Built in school because I was bored
 13) snake - Lots of headaches but it works and I'm proud
-14) DecimalBin - Encoder that taked decimal input and converts to binary
+14) DecimalBin - Encoder that takes decimal input and converts to binary
+14) DecimalOct - Encoder that takes decimal input and converts to octal
