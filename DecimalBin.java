@@ -2,11 +2,9 @@ import java.util.*;
 class DecimalBin
 {
     int dec;
-    String bin;
     DecimalBin()
     {
         dec = 0;
-        bin = "";
     }
     void input()
     {
