@@ -19,3 +19,4 @@ This repository just contains a few menial projects I've created, most are simpl
 14) DecimalBin - Encoder that takes decimal input and converts to binary
 14) DecimalOct - Encoder that takes decimal input and converts to octal
 15) numcompare - First C program, does what it says it does
+16) headsortails (py) - Simulates n coin flips and plots the number of heads and tails with % of each
