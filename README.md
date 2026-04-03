@@ -18,5 +18,6 @@ This repository just contains a few menial projects I've created, most are simpl
 13) snake - Lots of headaches but it works and I'm proud
 14) DecimalBin - Encoder that takes decimal input and converts to binary
 14) DecimalOct - Encoder that takes decimal input and converts to octal
-15) numcompare - First C program, does what it says it does
+15) numcompare (C) - First C program, does what it says it does
 16) headsortails (py) - Simulates n coin flips and plots the number of heads and tails with % of each
+17) Assortment (py) - Randomly chooses one of 11 alphabets repeatedly for chosen frequency, highlighted not so random nature of rng
