@@ -21,3 +21,4 @@ This repository just contains a few menial projects I've created, most are simpl
 15) numcompare (C) - First C program, does what it says it does
 16) headsortails (py) - Simulates n coin flips and plots the number of heads and tails with % of each
 17) Assortment (py) - Randomly chooses one of 11 alphabets repeatedly for chosen frequency, highlighted not so random nature of rng
+18) uppercase (C) - Prints inputted word in UPPERCASE
