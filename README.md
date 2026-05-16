@@ -22,3 +22,4 @@ This repository just contains a few menial projects I've created, most are simpl
 16) headsortails (py) - Simulates n coin flips and plots the number of heads and tails with % of each
 17) Assortment (py) - Randomly chooses one of 11 alphabets repeatedly for chosen frequency, highlighted not so random nature of rng
 18) uppercase (C) - Prints inputted word in UPPERCASE
+19) chirp (C) - ASCII bird in your terminal (cowsay but birb)
